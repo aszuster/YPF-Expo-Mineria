@@ -1,0 +1,32 @@
+.mb-48 {
+  margin-bottom: 48px;
+}
+
+.mb-24 {
+  margin-bottom: 24px;
+}
+
+.c-box-gray {
+  box-sizing: border-box;
+  height: 300px;
+}
+
+.c-box-gray-icon img {
+  margin-bottom: 14px;
+}
+
+.c-box-gray-icon .h6 {
+  margin-bottom: 12px;
+}
+
+@media only screen and (min-width: 768px) {
+  .c-box-gray-icon {
+    margin-bottom: 24px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .c-box-gray-icon {
+    margin-bottom: 0;
+  }
+}

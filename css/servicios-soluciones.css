@@ -1,0 +1,10 @@
+.c-box-contacto {
+  height: 195px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.c-box-contacto h4 {
+  line-height: 24px;
+}
